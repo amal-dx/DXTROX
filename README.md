@@ -4,3 +4,7 @@
 
 
  
+<p align="center">
+  <a href="httsp://github.com/amal-dx/DXTROX">
+    <img src="https://img.shields.io/github/repo-size/amal-dx/DXTROX?color=green&label=Repo%20total%20size&?style=for-the-badge&logo=appveyor">
+<p align="center"> 
